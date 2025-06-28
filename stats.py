@@ -26,7 +26,7 @@ def sort(ccd):
     
     list_of_char_dicts.sort(reverse=True, key=sort_on)
 
-    print (list_of_char_dicts)
+    return list_of_char_dicts
 
     
 
